@@ -1,0 +1,1 @@
+# WDM-Ex.NO-7-Information-Retrieval-Using-Vector-Space-Model
