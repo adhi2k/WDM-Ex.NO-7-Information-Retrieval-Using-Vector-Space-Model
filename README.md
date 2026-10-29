@@ -1,5 +1,5 @@
 # WDM-Ex.NO-7-Information-Retrieval-Using-Vector-Space-Model
-**Information Retrieval Using Vector Space Model in Python**
+**Information Retrieval Using Vector Space Model in Python**<br>
 **DATE:**<br>
 **AIM:**<br>
 To implement Information Retrieval Using Vector Space Model in Python.<br>
