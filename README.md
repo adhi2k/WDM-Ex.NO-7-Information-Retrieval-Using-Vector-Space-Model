@@ -1,6 +1,6 @@
 # WDM-Ex.NO-7-Information-Retrieval-Using-Vector-Space-Model
 Information Retrieval Using Vector Space Model in Python
-### DATE:
+### DATE: 30/10/2026
 ### AIM:
 To implement Information Retrieval Using Vector Space Model in Python.<br>
 ### Description:
