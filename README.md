@@ -59,4 +59,7 @@ highest_rank_score = max(result[2] for result in search_results)
 print("The highest rank cosine score is:", highest_rank_score)
 ```
 **Output:**<br>
+<img width="523" height="706" alt="image" src="https://github.com/user-attachments/assets/fb3c75d0-e767-4c1c-a933-d6a278221761" />
+
 **Result:**
+Thus, Information Retrieval using the Vector Space Model was successfully implemented in Python using TF-IDF and Cosine Similarity. The documents were ranked according to their relevance to the user's search query.
